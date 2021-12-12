@@ -88,23 +88,9 @@ header {
     justify-content: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
-    font-size: 35px
+    font-size: 40px
 
-/* section 3 youtube video */
 
-.section-three {
-    background-color: lightcoral;
-    height: 800px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-}
-
-iframe { 
-    padding: 5px;
-    
-}
 
 
 /* section 4 embed audio */
