@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: limegreen;
+    background-color: rgb(50, 182, 205);
 }
 
 h1{ 
@@ -56,7 +56,7 @@ button:active{
 /* header sytles */
 
 header {
-    background-color: hotpink;
+    background-color: light;
     padding: 10px 0px 10px 0px;
     
     
@@ -78,30 +78,7 @@ header {
 }
 
 
-.box1 {
-    background-color: skyblue;
-    
-    height: 200px;
-    flex: 1 1 auto;
 
-}
-
-.box2 {
-
-    background-color: lightgreen;
-    
-    height: 200px;
-    flex: 2 1 auto;
-}
-
-.box3 {
-
-    background-color: darkmagenta;
-    
-    height: 200px;
-    flex: 1 1 auto;
-
-}
 
 /* section 2 center item */
 
