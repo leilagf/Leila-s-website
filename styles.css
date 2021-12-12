@@ -64,25 +64,10 @@ header {
 
 
 
-
-/* section one flex grow and shrink */
-
-.section-one {
-    background-color: blueviolet;
-    
-    
-}
-
-.flexgrow-container {
-    display: flex;
-}
-
-
-
 /* section 2 center item */
 
-.section-two {
-    background-color: orangered;
+.section-one {
+    background-color: rgba(226, 170, 144, 0.432);
     height: 700px;
     display: flex;
     align-items: center;
