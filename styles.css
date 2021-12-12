@@ -101,14 +101,14 @@ button{font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 button:hover{
-    background-color: rgb(150, 208, 231);
+    background-color: rgb(222, 150, 231);
     color: white;
 
 }
 
 button:active{
-    background-color:  #082b6d ;
-    box-shadow: 0 5px rgb(78, 71, 71);
+    background-color:  #601b63 ;
+    box-shadow: 0 5px rgb(245, 209, 209);
     transform: translateY(4px);
 }
 /*footer goes here */
