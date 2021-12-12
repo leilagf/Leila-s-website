@@ -67,11 +67,14 @@ header {
 /* section 2 center item */
 
 .section-one {
-    background-color: rgba(226, 170, 144, 0.432);
+    background-color: rgb(229, 149, 149);
     height: 700px;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 20px
 
 
 }
