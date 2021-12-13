@@ -91,6 +91,15 @@ header {
     font-size: 20px
 }
 
+.section-five {
+    background-color: rgb(172, 204, 214);
+    height: 600px;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 20px
+}
+
 button{font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     margin: 2px;
@@ -131,7 +140,7 @@ button:active{
 }
 .mediacontent{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: navy;
+    color: rgb(0, 0, 0);
     font-size: 20px;
 }
 /*footer goes here */
