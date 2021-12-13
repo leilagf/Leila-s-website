@@ -93,7 +93,6 @@ header {
 .section-four{
 background-color: rgb(172, 204, 214);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: flex;
     align-items: center;
     justify-content: center;
     color: black;
