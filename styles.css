@@ -31,9 +31,11 @@ ul{
 }
 
 button{font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 10px;
-    font-size: small;
-    transition-duration: 4s;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
 }
 
 button:hover{
