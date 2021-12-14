@@ -25,7 +25,7 @@ ul{
     justify-content: flex-start;
 }
 .push{
-    margin-right: auto;
+    margin-left: auto;
 }
 
 button{font-family: Verdana, Geneva, Tahoma, sans-serif;
