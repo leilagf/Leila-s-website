@@ -12,7 +12,8 @@ h1{
 }
 
 ul{ 
-    
+    list-style-type: none;
+    padding: 5px;
 
 }
 
@@ -30,7 +31,7 @@ ul{
 button{font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     margin: 2px;
-    border: 1px solid rgba(26, 29, 26, 0);
+    
     font-size: large;
     border-radius: 5px;
     transition-duration: 4s;
