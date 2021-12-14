@@ -90,6 +90,15 @@ header {
     color: black;
     font-size: 20px
 }
+.section-four{ background-color: rgb(168, 96, 146);
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 20px
+}
 
 
 .section-five {
@@ -142,6 +151,23 @@ button:active{
     color: rgb(0, 0, 0);
     font-size: 20px;
 }
+.media-container1 {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 15px 25px 15px 15px;
+
+}
+
+.media-container1 .mediacontent1{
+    flex: 1;
+    padding: 10px;
+
+}
+.mediacontent1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
 /*footer goes here */
 
 footer{
