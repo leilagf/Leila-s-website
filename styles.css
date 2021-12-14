@@ -23,6 +23,8 @@ ul{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: flex-start;
+    display:inline;
+    margin: 0 0 0 5px;
 }
 .push{
     margin-left: auto;
