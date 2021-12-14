@@ -31,21 +31,21 @@ ul{
 button{font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
     margin: 2px;
-    border: 1px solid limegreen;
+    border: 1px solid rgba(26, 29, 26, 0);
     font-size: large;
     border-radius: 5px;
     transition-duration: 4s;
 }
 
 button:hover{
-    background-color: limegreen;
+    background-color: rgba(50, 205, 50, 0);
     color: white;
 
 }
 
 button:active{
-    background-color:  #3e8e41 ;
-    box-shadow: 0 5px darkred;
+    background-color:  #3e8e4100 ;
+    box-shadow: 0 5px rgba(184, 82, 82, 0.87);
     transform: translateY(4px);
 }
 
