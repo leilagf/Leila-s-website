@@ -82,7 +82,7 @@ header {
 }
 .section-two {
     background-color: rgb(230, 124, 124);
-    height: 600px;
+    height: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -151,23 +151,6 @@ button:active{
     color: rgb(0, 0, 0);
     font-size: 20px;
 }
-.media-container1 {
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    padding: 15px 25px 15px 15px;
-
-}
-
-.media-container1 .mediacontent1{
-    flex: 1;
-    padding: 10px;
-
-}
-.mediacontent1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(0, 0, 0);
-    font-size: 20px;
 /*footer goes here */
 
 footer{
