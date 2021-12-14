@@ -24,7 +24,7 @@ ul{
     flex-direction: row;
     justify-content: flex-start;
     display:inline;
-    margin: 0 0 0 15px;
+    margin: 0 0 0 30px;
 }
 .push{
     margin-left: auto;
