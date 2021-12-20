@@ -130,7 +130,15 @@ header {
     font-size: 20px
 }
 
+
 .section-eight{
+    background-color: rgb(207, 138, 181);
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black
+    font-size: 20px
+}
+.section-nine{
     background-color: rgb(207, 138, 181);
     height: 500px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -138,12 +146,6 @@ header {
     font-size: 20px
 }
 
-.section-nine{
-    background-color: rgb(207, 138, 181);
-    height: 800px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: black
-    font-size: 20px
 
 button{font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 10px;
